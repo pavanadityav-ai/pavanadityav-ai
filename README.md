@@ -4,8 +4,8 @@ B.Tech CSE (AI & ML) graduate, 2026, from Mohan Babu University. I am based in V
 
 ## What I'm working on
 
-- **Billing Automation App:** a Python calculation engine for a family coconut wholesale business, turning handwritten invoice rules into tested calculations.
-- **Daily practice:** Python, NumPy and SQL for data analysis.
+- **Data-driven decisions for a coconut export business:** my family exports coconuts from Konaseema to central and north India. I am turning handwritten bills into a structured dataset, to analyse sales, prices and buyers with Python and SQL, and later build simple ML forecasts.
+- **Daily practice:** Python, NumPy and SQL for data analysis. See [python-data-practice](https://github.com/pavanadityav-ai/python-data-practice).
 
 ## Skills
 
