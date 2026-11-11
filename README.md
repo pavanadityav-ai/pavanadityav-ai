@@ -2,13 +2,15 @@
 
 B.Tech CSE (Artificial Intelligence & Machine Learning) graduate, 2026, Mohan Babu University, Tirupati, India.
 
-I am interested in **speech and language technology for low-resource Indian languages**, starting with my native language, Telugu. I am preparing to apply for a Master's in AI/ML, and I am also open to entry-level roles in data and AI.
+I am interested in **speech and language technology for low-resource Indian languages**, starting with my native language, Telugu, and in **computer vision for real-world problems**. I am preparing to apply for a Master's in AI/ML, and I am open to entry-level roles in AI/ML, data and software.
 
-## Current project
+## Projects
 
-**[telugu-asr-whisper](https://github.com/pavanadityav-ai/telugu-asr-whisper)** (in progress)
+**[telugu-asr-whisper](https://github.com/pavanadityav-ai/telugu-asr-whisper)**
+Fine-tuned OpenAI Whisper-small for Telugu speech recognition on Google FLEURS. On unseen test audio, word error rate fell from 155.6% to 48.0% and character error rate from 163.9% to 13.7%. Includes error analysis, WER/CER written from scratch and automated tests.
 
-Fine-tuning OpenAI's Whisper model for Telugu speech recognition, measuring word and character error rates, and studying where and why the model fails.
+**[smart-traffic-management](https://github.com/pavanadityav-ai/smart-traffic-management)**
+My extended version of our B.Tech team project: per-lane vehicle counting with YOLOv8 and a tracker, density levels, road clearance time, adaptive signal timing and emergency-vehicle alerts, on a Flask REST API with SQLite. Includes a YOLOv8 vs Faster R-CNN benchmark and 57 automated tests.
 
 ## Practice repositories
 
@@ -18,8 +20,9 @@ Fine-tuning OpenAI's Whisper model for Telugu speech recognition, measuring word
 ## Skills
 
 - **Languages:** Python, SQL, MATLAB
-- **ML / data:** NumPy, machine learning fundamentals, computer vision, image processing, data visualization
-- **Learning now:** PyTorch, Hugging Face Transformers, speech recognition
+- **ML / data:** PyTorch, Hugging Face Transformers, Ultralytics YOLOv8, OpenCV, NumPy, pandas
+- **Tools:** Git and GitHub Actions, Flask, SQLite, Kaggle and Colab GPUs
+- **AI tools:** Claude, ChatGPT for AI-assisted coding and debugging
 
 ## Certifications
 
