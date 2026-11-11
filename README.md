@@ -10,7 +10,7 @@ I am interested in **speech and language technology for low-resource Indian lang
 Fine-tuned OpenAI Whisper-small for Telugu speech recognition on Google FLEURS. On unseen test audio, word error rate fell from 155.6% to 48.0% and character error rate from 163.9% to 13.7%. Includes error analysis, WER/CER written from scratch and automated tests.
 
 **[smart-traffic-management](https://github.com/pavanadityav-ai/smart-traffic-management)**
-My extended version of our B.Tech team project: per-lane vehicle counting with YOLOv8 and a tracker, density levels, road clearance time, adaptive signal timing and emergency-vehicle alerts, on a Flask REST API with SQLite. Includes a YOLOv8 vs Faster R-CNN benchmark and 57 automated tests.
+My extended version of our B.Tech team project: per-lane vehicle counting with YOLOv8 and a tracker, density levels, road clearance time, adaptive signal timing and emergency-vehicle alerts, on a Flask REST API with SQLite. Benchmarked YOLOv8 against Faster R-CNN on 500 COCO images (Faster R-CNN most accurate at 4 FPS; YOLOv8m the best trade-off at 32 FPS) and found that low-light enhancement hurt accuracy. 58 automated tests.
 
 ## Practice repositories
 
